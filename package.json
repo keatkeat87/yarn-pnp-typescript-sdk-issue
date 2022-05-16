@@ -1,0 +1,7 @@
+{
+  "name": "yarn-pnp-typescript-sdk-issue",
+  "packageManager": "yarn@3.2.1",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
+}
